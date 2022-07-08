@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>back.bmp</file>
+        <file>background.bmp</file>
+        <file>Head.bmp</file>
+        <file>preview.bmp</file>
+        <file>1.bmp</file>
+        <file>2.bmp</file>
+        <file>3.bmp</file>
+        <file>4.bmp</file>
+    </qresource>
+</RCC>
